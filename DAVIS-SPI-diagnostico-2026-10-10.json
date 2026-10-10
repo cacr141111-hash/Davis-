@@ -1,0 +1,22 @@
+{
+  "empresa": "DAVIS SPI C.A.",
+  "tipo": "Diagnóstico inicial de prospecto",
+  "fecha": "10 de octubre de 2026 a las 6:27 p. m.",
+  "respuestas": {
+    "Nombre y apellido": "María Prueba",
+    "Correo electrónico": "maria@example.com",
+    "Teléfono / WhatsApp": "+58 412 000 0000",
+    "Estado": "Distrito Capital",
+    "Rol": "Fundador/a o emprendedor/a",
+    "Situación del negocio": "Tengo una idea y estoy por comenzar",
+    "Actividad o sector principal": "Servicios profesionales",
+    "Áreas en las que busca apoyo": [
+      "Contabilidad y organización financiera"
+    ],
+    "Principal reto": "No sé por dónde comenzar",
+    "Detalles de la consulta": "Quiero formalizar y organizar el negocio.",
+    "Autorización para atender la consulta": [
+      "Sí"
+    ]
+  }
+}
